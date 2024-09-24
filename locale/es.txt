@@ -1,0 +1,14 @@
+#: locale=es
+
+## Media
+
+### Título
+panorama_28D916E4_24FE_B532_41BF_FA4866662EBF.label = lobby1
+panorama_28F6298D_24FE_DFF2_4191_CCE5E493FCC0.label = lobby2
+
+## Tour
+
+### Descripción
+
+### Título
+tour.name = test24
